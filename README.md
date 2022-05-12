@@ -1,2 +1,2 @@
 # DataMining-Aprori-Algorithm-Implementation
-A Simplistic implementation of the Aprori algorithm to brute force small combination problems
+Unlike the other bits of code in this section of my repositories, this program is a simple python script that can be run to do Aprori calculations for combination problems. The values that are being used get assigned at the start of the script, and its limitations lie in the fact that the combinations are supported only in a form of <id> <objects> (see code to get a clearer idea of what I mean). 
